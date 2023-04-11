@@ -1,5 +1,5 @@
 Componente: Mattia Bove
-Indirizzo repository: 
+Indirizzo repository: https://github.com/mattia-gh/primo-compito.git
 
 L'esercizio fa riferimento a "eser.css.3.html" del documento "lweb-part02-XHTML.CSS.2.pdf" 
 nella directory delle lezioni.
