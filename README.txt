@@ -14,4 +14,4 @@ alcuni dati. Se non sono compilati tutti i campi, dopo aver schiacciato INVIO, v
 un messaggio d'errore (in rosso) con i relativi campi non compilati. Altrimenti
 viene visualizzato un messaggio in blu.
 
-Per la form ho usato il metodo post, e il programma cgi è in C (nella directory cgiFile).
+Per la form ho usato il metodo post, e il programma cgi è in C (nella directory cgiFile-BOVE-MATTIA).
